@@ -1,0 +1,9 @@
+*.pyc
+*.tmp
+*.log
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+dump.txt
+other/*
+
