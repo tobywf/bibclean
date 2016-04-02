@@ -1,0 +1,9 @@
+[MESSAGES CONTROL]
+
+# Messages to disable
+disable=missing-docstring
+
+[BASIC]
+
+# Good variable names which should always be accepted, separated by a comma
+good-names=e,f,k,i,j,m,v,db,ex,fp,_

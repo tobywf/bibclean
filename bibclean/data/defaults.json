@@ -1,0 +1,21 @@
+{
+    "allowed": [
+        "address",
+        "arxivId",
+        "author",
+        "eprint",
+        "isbn",
+        "journal",
+        "publisher",
+        "month",
+        "number",
+        "pages",
+        "primaryClass",
+        "title",
+        "volume",
+        "year"
+    ],
+    "remove": [],
+    "abbreviations": null,
+    "default_fuzzy": false
+}
