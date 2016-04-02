@@ -14,7 +14,8 @@ Sciences". Long journal names can quickly bloat any bibliography.
 Installation
 ------------
 
-A virtualenv is recommended.
+A virtualenv is recommended. I've dropped support for legacy Python, so Python
+3.4+ only.
 
 ```shell
 python setup.py install
